@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: magaza-kapama\n"
+"POT-Creation-Date: 2017-01-31 16:31+0300\n"
+"PO-Revision-Date: 2017-01-31 16:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: ozibal <ozibal@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: magazakapama-setting.php:5
+msgid "Magaza Kapama Wordpress Plugin Sayfasına Hoş Geldiniz."
+msgstr "Welcome to Store Closing Wordpress Plugin Page"
+
+#: magazakapama-setting.php:9 magazakapama.php:48
+msgid "Magaza Kapama"
+msgstr "Store Closing"
+
+#: magazakapama-setting.php:11
+msgid "Woocommerce online satış mağazanızı istediğiniz gün ve saatlerde kapatın."
+msgstr "Close the Woocommerce online sales store on the days and times you want."
+
+#: magazakapama-setting.php:20
+msgid "Pazartesi"
+msgstr "Monday"
+
+#: magazakapama-setting.php:20
+msgid "Salı"
+msgstr "Tuesday"
+
+#: magazakapama-setting.php:20
+msgid "Çarşamba"
+msgstr "Wednesday"
+
+#: magazakapama-setting.php:20
+msgid "Perşembe"
+msgstr "Thursday"
+
+#: magazakapama-setting.php:20
+msgid "Cuma"
+msgstr "Friday"
+
+#: magazakapama-setting.php:20
+msgid "Cumartesi"
+msgstr "Saturday"
+
+#: magazakapama-setting.php:20
+msgid "Pazar"
+msgstr "Sunday"
+
+#: magazakapama-setting.php:29 magazakapama-setting.php:104
+msgid "Açılış"
+msgstr "Opening"
+
+#: magazakapama-setting.php:31 magazakapama-setting.php:90
+msgid "Kapanış"
+msgstr "Closing"
+
+#: magazakapama-setting.php:53
+msgid "Saat Dilimi"
+msgstr "Time Zone"
+
+#: magazakapama-setting.php:71
+msgid "Bildirim Mesajınız"
+msgstr "Notification Message"
+
+#: magazakapama-setting.php:74
+msgid "Aktif Saatler"
+msgstr "Active Hours"
+
+#: magazakapama-setting.php:74
+msgid "Boş"
+msgstr "Blank"
+
+#: magazakapama-setting.php:74
+msgid "Görüntülenmez"
+msgstr "Invisible"
+
+#: magazakapama-setting.php:84
+msgid "Tarih"
+msgstr "Date"
+
+#: magazakapama-setting.php:85
+msgid "Saat"
+msgstr "Hour"
+
+#: magazakapama-setting.php:87
+msgid "Dakika"
+msgstr "Minute"
+
+#: magazakapama-setting.php:97
+msgid "Kapanış Mesajınız"
+msgstr "Closing Message"
+
+#: magazakapama-setting.php:100 magazakapama.php:94
+msgid "Mağazamız [pcstamp] tarihinde siparişe kapanacaktır."
+msgstr "Our store will close order on [pcstamp]"
+
+#: magazakapama-setting.php:111
+msgid "Açılış Mesajınız"
+msgstr "Opening Message"
+
+#: magazakapama-setting.php:114 magazakapama.php:94
+msgid "Mağazamız [postamp] tarihinde siparişe açılacaktır."
+msgstr "Our store will be opened to order on [postamp]"
+
+#: magazakapama-setting.php:116
+msgid "Kapanış zamanı"
+msgstr "Closing time"
+
+#: magazakapama-setting.php:116
+msgid "Açılış zamanı"
+msgstr "Opening time"
+
+#: magazakapama-setting.php:119
+msgid "Bildirim için"
+msgstr "For notification"
+
+#: magazakapama-setting.php:120
+msgid "Zemin rengi"
+msgstr "Background color"
+
+#: magazakapama-setting.php:121
+msgid "Yazı rengi"
+msgstr "Text color"
+
+#: magazakapama-setting.php:124
+msgid "Özel CSS"
+msgstr "Custom CSS"
+
+#: magazakapama-setting.php:128
+msgid "Boş : Varsayılan"
+msgstr "Blank : Default"
+
+#: magazakapama.php:54
+msgid "Ayarlar"
+msgstr "Settings"
+
+#: magazakapama.php:92
+msgid "Mağazamız [tstamp] saatleri arasında hizmet vermektedir."
+msgstr "Our store serves between [tstamp] hours."
